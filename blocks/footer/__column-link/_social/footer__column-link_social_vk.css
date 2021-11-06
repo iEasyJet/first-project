@@ -1,0 +1,5 @@
+.footer__column-link_social_vk::before {
+  content: '';
+  padding-right: 25px;
+  background: url(../../../../images/footer/vk_color_white.svg) left no-repeat;
+}
