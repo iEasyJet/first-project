@@ -9,6 +9,6 @@
 4. Организация файлов и путей к ним по БЭМ;
 5. Создание в корне проекта файла README.md.
 
-[Ссылка на бриф](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf)
+[Ссылка на бриф](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)
 
 [Ссылка на проект](https://ieasyjet.github.io/first-project/)
