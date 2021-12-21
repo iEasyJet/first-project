@@ -1,14 +1,19 @@
----
-Проектная работа 1/2 "Научиться учиться"
----
+# #1 "Научиться учиться" <kbd>Яндекс.Практикум</kbd>
 
-Описание:
-1. CSS переходы - transition;
-2. CSS анимация и кейфреймы - animation & @keyframes;
-3. Добавлены iframe;
-4. Организация файлов и путей к ним по БЭМ;
-5. Создание в корне проекта файла README.md.
+## Описание проекта:
+Статичный одностраничный сайт. Работа сделана на основании [брифа](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf).
 
-[Ссылка на бриф](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)
+## Технологии и инструменты, которые использовались в работе:
+  * HTML;
+  * CSS;
+    * FlexBox;
+    * Анимация;
+  * YouTube Player API;
+  * БЭМ;
+  * Файловая структура по БЭМ/Nested;
 
-[Ссылка на проект](https://ieasyjet.github.io/first-project/)
+### `Статус проекта:` <kbd>Завершен</kbd>
+
+[Проект](https://ieasyjet.github.io/first-project/)
+
+[Репозиторий](https://github.com/iEasyJet/first-project)
