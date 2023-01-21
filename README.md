@@ -14,6 +14,6 @@
 
 ### `Статус проекта:` <kbd>Завершен</kbd>
 
-[Проект](https://ieasyjet.github.io/first-project/)
+[gh-pages](https://ieasyjet.github.io/first-project/)
 
 [Репозиторий](https://github.com/iEasyJet/first-project)
